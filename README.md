@@ -19,12 +19,13 @@
 
 ### Transfer files to S3
 
+![image](https://user-images.githubusercontent.com/51021282/179384907-9e6dfc4e-fe70-4d5b-9b38-d015a9ec1a6b.png)
 
 
 
 ### Transfer files from S3 to EC2 instance
 
-![image](https://user-images.githubusercontent.com/51021282/179384044-d568e850-b2e6-4435-96d0-9edadaffe659.png)
+
 
 
 ### Prepare for the deployment
