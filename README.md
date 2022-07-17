@@ -35,6 +35,8 @@
 
 ### Prepare for the deployment
 
+![image](https://user-images.githubusercontent.com/51021282/179384971-cbeae0ab-88a8-44d4-82e9-c65fd5071e8b.png)
+
 
 ---------------------------------------------------------------
 
